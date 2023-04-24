@@ -1,4 +1,4 @@
-# santosh
+# Table
 
  Create tabel 
 Using html 
@@ -8,13 +8,12 @@ Tag	Description
 
 
  |<table>| 	 |Defines a table. |
- | :---: | :---: | :---: | :-----: |
+
  |<th>   |	 |Defines a header 
- | :---: | :---: | :---: | :-----: |
-                 |cell in a table  |
- | :---: | :---: | :---: | :-----: |
- |<tr>	 | Defines a row in a table|
- | :---: | :---: | :---: | :-----: |
+              cell in a table  |
+
+ |<tr.>	 | Defines a row in a table|
+
  |<td>	 |Defines a cell in a table|
  
 
